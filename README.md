@@ -20,3 +20,6 @@ python main.py
 - Subtraction
 - Multiplication
 - Division
+
+## Usage
+Run the calculator from terminal using Python.
