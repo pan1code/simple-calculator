@@ -14,3 +14,7 @@ def divide(a, b):
     if b == 0:
         return "Error: division by zero"
     return a / b
+
+# utility math functions
+
+# added error handling
