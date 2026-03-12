@@ -14,3 +14,9 @@ A simple team Python project for practicing Git.
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
