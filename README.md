@@ -24,4 +24,4 @@ python main.py
 Run the calculator from terminal using Python.
 
 ## Version
-Current version: 1.0
+Current version: 1.1
