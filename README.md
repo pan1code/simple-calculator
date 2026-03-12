@@ -23,3 +23,6 @@ python main.py
 
 ## Usage
 Run the calculator from terminal using Python.
+
+## Version
+Current version: 1.0
