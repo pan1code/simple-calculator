@@ -1,5 +1,5 @@
 # Simple Calculator
-
+Simple calculator project
 A simple team Python project for practicing Git.
 
 ## Files
