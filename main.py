@@ -6,6 +6,7 @@ init(autoreset=True)
 
 
 def main():
+    print("Starting calculator...")
     print(Fore.CYAN + f"{APP_NAME} v{VERSION}")
     print(Fore.GREEN + WELCOME_TEXT)
     print("Calculator is ready to work.")
