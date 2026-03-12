@@ -13,3 +13,15 @@ Simple calculator project by Arina Antonova snd Maxim Tomov. We practing Git in 
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Usage
+Run the calculator from terminal using Python.
+
+## Version
+Current version: 1.0

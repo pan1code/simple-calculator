@@ -1,3 +1,5 @@
 APP_NAME = "Simple Calculator"
 VERSION = "1"
 WELCOME_TEXT = "Welcome to Simple Calculator!"
+AUTHOR = "Arina and Maxim"
+APP_DESCRIPTION = "Simple console calculator"
