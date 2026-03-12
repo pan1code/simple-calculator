@@ -1,6 +1,5 @@
 # Simple Calculator
-Simple calculator project
-A simple team Python project for practicing Git.
+Simple calculator project by Arina Antonova snd Maxim Tomov. We practing Git in this project.
 
 ## Files
 - main.py - main program
