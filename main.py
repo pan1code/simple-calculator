@@ -1,3 +1,5 @@
+print("Simple Calculator")
+
 from colorama import init, Fore
 from config import APP_NAME, VERSION, WELCOME_TEXT
 from utils import add, subtract, multiply, divide
